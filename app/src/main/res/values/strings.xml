@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bprecord</string>
+    <string name="add_data">add data</string>
+    <string name="status">status</string>
+    <string name="confirm">confirm</string>
+    <string name="usage">Systolic Diastolic Pulse</string>
 </resources>
